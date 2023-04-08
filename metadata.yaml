@@ -1,2 +1,6 @@
 homepage: "https://wideangle.co/"
 documentation: "https://wideangle.co/documentation"
+versions:
+  - sha: b7ff2f88f3218fa3f1b1badec805670182617e4e
+    changeNotes: First release
+     
